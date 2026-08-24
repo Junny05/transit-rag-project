@@ -8,6 +8,7 @@ gtfs-realtime-bindings
 python-dotenv
 tenacity
 pydantic
+streamlit
 
 # testing
 pytest
