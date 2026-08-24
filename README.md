@@ -1,4 +1,4 @@
-# 🚇 Transit Alert RAG Assistant
+# Transit Alert RAG Assistant
 
 A Retrieval-Augmented Generation (RAG) service that answers natural-language questions about live NYC subway service alerts, built as a production-style FastAPI backend with a Streamlit chat frontend, tested and deployed via CI/CD to AWS EC2.
 
